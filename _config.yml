@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Adaptive Cloud Enablement
+email: nate.herndon@aceitcrm.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A Salesforce-focused repository maintained by Nate Herndon documenting 
+  development patterns, architectural decisions, and platform best practices. 
+  It includes Apex and Lightning code examples, architecture reviews, tutorials, 
+  and supporting materials for blog posts and video walkthroughs exploring 
+  practical Salesforce solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://aceitcrm.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username:  ACEITCRM
 
 # Build settings
 theme: minima
