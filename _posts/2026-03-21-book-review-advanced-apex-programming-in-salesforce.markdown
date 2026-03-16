@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Book Review: Advanced Apex Programing in Salesforce"
 date:   2026-03-15 21:25:50 -0500
 categories: book review

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Nate Herndon Bio
 permalink: /about/nate-herndon
 ---
