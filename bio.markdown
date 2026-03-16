@@ -4,6 +4,8 @@ title: Nate Herndon Bio
 permalink: /about/nate-herndon
 ---
 
+![Nate Herndon]({{ '/assets/images/20251219_151143_herndon.png' | relative_url }})
+
 I am a Salesforce developer and architect focused on building practical, well-designed solutions on the Salesforce platform. My work centers on translating business requirements into clean architecture, maintainable code, and scalable systems. I enjoy exploring development patterns, documenting design decisions, and sharing what I learn through tutorials, technical writing, and demonstrations.
 
 Before entering the technology field, I served as an active duty officer in the United States Army and retired honorably with the rank of Major. That experience shaped the way I approach engineering problems today—methodically, with an emphasis on leadership, accountability, and clear communication. I carry that same mindset into my work designing Salesforce solutions and helping organizations make effective use of the platform.
