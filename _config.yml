@@ -32,7 +32,7 @@ twitter_username:
 github_username:  ACEITCRM
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
